@@ -1,4 +1,4 @@
-# Farmland (work in progress)
+# Farmland (old work in progress)
 
 <p align="center">
 <img src="img/farmland.gif", width=70%>
